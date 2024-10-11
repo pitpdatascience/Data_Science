@@ -1,2 +1,2 @@
 # Data_Science
-All about Data Science Course
+All about Data Science Course Material
